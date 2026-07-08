@@ -48,39 +48,66 @@
 
 ### 🚀 What I've Built
 
-**🏭 Astha Engineering & Solutions** — Production B2B platform, live at [asthaengineering.com](https://asthaengineering.com)
-Industrial parts catalog with an 11-table PostgreSQL schema, 40+ REST endpoints with JWT auth + refresh token rotation, bilingual (EN/BN) search & filtering, and an admin dashboard with WhatsApp notifications.
-`React · Node · Express · PostgreSQL · Prisma · Tailwind`
-*(Client project — code private; live product above serves as the case study)*
+#### 🏭 Astha Engineering & Solutions
+Production B2B platform, live at **[asthaengineering.com](https://asthaengineering.com)**
 
-**🤖 QueueStorm Investigator — AI Support Copilot** ([repo](https://github.com/me-nayeem/Customer_Support_Chat_Bot))
-AI-powered customer support system for mobile financial services. Uses a hybrid architecture — deterministic rule-based logic plus LLM reasoning — to produce structured, safety-checked decisions on support tickets. Features multi-layer safety rules (blocks credential requests, unauthorized promises, suspicious redirects), automatic API-key rotation with failover, and a Dockerized 69.5MB image.
-`Node.js 20 · Express 5 · Google Gemini 2.5 Flash · Zod · Docker`
+- Industrial parts catalog backed by an 11-table PostgreSQL schema
+- 40+ REST endpoints with JWT auth + refresh token rotation
+- Bilingual (EN/BN) search & filtering
+- Admin dashboard with WhatsApp notifications
 
-**🩺 ReLife — AI-Powered Preventive Healthcare** ([repo](#)) — SUST hackathon project.
-`MERN · [AI stack]`
-*(details coming soon)*
+`React` `Node` `Express` `PostgreSQL` `Prisma` `Tailwind`
+*Client project — code private; the live product above serves as the case study.*
 
-**📌 More projects** ([repo](#)) — additional work in progress.
-*(details coming soon)*
+<br/>
+
+#### 🤖 QueueStorm Investigator — AI Support Copilot
+**[View Repo →](https://github.com/me-nayeem/Customer_Support_Chat_Bot)**
+
+AI-powered customer support system for mobile financial services.
+
+- Hybrid architecture: deterministic rule-based logic + LLM reasoning for structured, safety-checked ticket decisions
+- Multi-layer safety rules block credential requests, unauthorized promises, and suspicious redirects
+- Automatic API-key rotation with failover
+- Dockerized into a 69.5 MB image
+
+`Node.js 20` `Express 5` `Google Gemini 2.5 Flash` `Zod` `Docker`
+
+<br/>
+
+#### 🩺 ReLife — AI-Powered Preventive Healthcare
+**[View Repo →](#)** *(link coming soon)*
+
+SUST hackathon project. *(details coming soon)*
+
+`MERN` `AI stack — TBD`
+
+<br/>
+
+#### 📌 More Projects
+**[View Repo →](#)** *(link coming soon)*
+
+Additional work in progress. *(details coming soon)*
 
 ---
 
 ### 🌱 Currently Learning
 
-- Advanced Data Structures & Algorithms / Competitive Programming
-- AI & RAG system design — vector databases, embeddings, LLM app architecture
-- System design — scalability and architecture patterns for production systems
-- DevOps beyond the basics — CI/CD pipelines, container orchestration
-- Cross-platform mobile app development
+| Area | Focus |
+|---|---|
+| 🧮 Advanced DSA / CP | Deepening competitive programming skills |
+| 🤖 AI & RAG Systems | Vector databases, embeddings, LLM app architecture |
+| 🏗️ System Design | Scalability & architecture patterns for production systems |
+| 🐳 DevOps | CI/CD pipelines, container orchestration beyond the basics |
+| 📱 Mobile Development | Cross-platform app development |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=me-nayeem&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Nayeem's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-nayeem&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=me-nayeem&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Nayeem's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=me-nayeem&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
