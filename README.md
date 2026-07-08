@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Nayeem 👋
 
-<!--
-**me-nayeem/me-nayeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer (MERN + PostgreSQL) building production web apps
+with REST APIs and AI features — RAG chatbots, OpenAI integrations.
+CSE @ SUST. Open to freelance work.
 
-Here are some ideas to get you started:
+## 🚀 What I've built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🏭 Astha Engineering & Solutions** — production B2B platform, live at
+[asthaengineering.com](https://asthaengineering.com)
+Industrial parts catalog: 11-table PostgreSQL schema, 40+ REST endpoints
+with JWT auth + refresh rotation, bilingual (EN/BN) search & filtering,
+admin dashboard with WhatsApp notifications.
+`React · Node · Express · PostgreSQL · Prisma · Tailwind`
+*(Client project — code private; case study below)*
+
+**🩺 ReLife — AI-Powered Preventive Healthcare** ([repo](link)) — SUST hackathon
+project. [1 line on what it does]. `MERN · [AI stack]`
+
+**🤖 RAG Chatbot from scratch** ([repo](link)) — retrieval-augmented chatbot
+with real-time data retrieval. `Node · OpenAI · [vector store]`
+
+**🎮 PlayCode** ([repo](link)) — gamified coding practice platform. `Node · Express · EJS`
+
+## 🔧 Stack
+React · Node.js · Express · MongoDB · PostgreSQL · Prisma · Tailwind ·
+OpenAI API · Docker basics · C/C++ (DSA/CP: [Codeforces](https://codeforces.com/profile/me_nayeem) · [LeetCode](https://leetcode.com/u/me_nayeem/))
+
+## 📫 Contact
+menayeemahmed100@gmail.com · [LinkedIn](https://www.linkedin.com/in/nayeem-ahmed100/) · Fiverr: me_nayeem2
