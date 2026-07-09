@@ -61,6 +61,20 @@ Production B2B platform, live at **[asthaengineering.com](https://asthaengineeri
 
 <br/>
 
+#### 🤖 Halioo — RAG Chatbot
+Full-stack Retrieval-Augmented Generation chatbot, live at **[halioo-chat-bot.vercel.app](https://halioo-chat-bot.vercel.app)**
+
+- Upload-to-answer RAG pipeline: PDF/TXT parsing → chunking → Gemini embeddings → pgvector similarity search
+- Real-time token-by-token streaming via Server-Sent Events
+- Per-user data isolation — vector search scoped to authenticated user, zero cross-user bleed-through
+- JWT auth with bcrypt hashing, Zod-validated inputs, session history with auto-cleanup (last 5 kept)
+- Context-aware assistant — answers general knowledge directly, nudges for document upload when it needs private context
+
+`React` `Node` `Express` `PostgreSQL` `pgvector` `Prisma` `Gemini 2.5 Flash` `LangChain` `Tailwind`
+Solo-built, end-to-end — [source available on GitHub](https://github.com/me-nayeem/HaliooChatBot).
+
+<br/>
+
 #### 🤖 QueueStorm Investigator — AI Support Copilot
 **[View Repo →](https://github.com/me-nayeem/Customer_Support_Chat_Bot)**
 
@@ -75,19 +89,18 @@ AI-powered customer support system for mobile financial services.
 
 <br/>
 
-#### 🩺 ReLife — AI-Powered Preventive Healthcare
-**[View Repo →](#)** *(link coming soon)*
+#### 🩺 HealthHub (ReLife) — AI-Powered Personal Wellness Platform
+**[View Repo →](https://github.com/me-nayeem/relife-healthcare-platform)**
 
-SUST hackathon project. *(details coming soon)*
+Full-stack wellness app for personalized health tracking, AI guidance, and community engagement. Built as a hackathon solution to fragmented health tracking.
 
-`MERN` `AI stack — TBD`
+- Personalized health profile creation and dashboard tracking
+- AI-powered health insights and conversational assistant
+- Daily challenges and gamified engagement mechanics
+- Community feed for sharing wellness progress, plus a rewards store for motivation
+- Healthcare consultation and resource discovery pages
 
-<br/>
-
-#### 📌 More Projects
-**[View Repo →](#)** *(link coming soon)*
-
-Additional work in progress. *(details coming soon)*
+`React` `Vite` `Node.js` `Express` `MongoDB` `Mongoose` `JWT` `Groq SDK` `OpenAI SDK`
 
 ---
 
