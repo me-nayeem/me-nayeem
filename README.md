@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nayeem-ahmed100/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:menayeemahmed100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://nayeem-islam-portfolio.vercel.app"><img src="https://img.shields.io/badge/Website-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="https://codeforces.com/profile/me_nayeem"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
   <a href="https://leetcode.com/u/me_nayeem/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
   <a href="https://www.fiverr.com/me_nayeem2"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
@@ -22,11 +23,11 @@
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,cpp,html,css" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,html,css" alt="Languages"/>
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,redux" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,redux,nextjs" alt="Frontend"/>
 
 **Backend**
 <br/>
@@ -49,6 +50,7 @@
 ### 🚀 What I've Built
 
 #### 🏭 Astha Engineering & Solutions
+
 Production B2B platform, live at **[asthaengineering.com](https://asthaengineering.com)**
 
 - Industrial parts catalog backed by an 11-table PostgreSQL schema
@@ -57,11 +59,12 @@ Production B2B platform, live at **[asthaengineering.com](https://asthaengineeri
 - Admin dashboard with WhatsApp notifications
 
 `React` `Node` `Express` `PostgreSQL` `Prisma` `Tailwind`
-*Client project — code private; the live product above serves as the case study.*
+_Client project — code private; the live product above serves as the case study._
 
 <br/>
 
 #### 🤖 Halioo — RAG Chatbot
+
 Full-stack Retrieval-Augmented Generation chatbot, live at **[halioo-chat-bot.vercel.app](https://halioo-chat-bot.vercel.app)**
 
 - Upload-to-answer RAG pipeline: PDF/TXT parsing → chunking → Gemini embeddings → pgvector similarity search
@@ -76,6 +79,7 @@ Solo-built, end-to-end — [source available on GitHub](https://github.com/me-na
 <br/>
 
 #### 🤖 QueueStorm Investigator — AI Support Copilot
+
 **[View Repo →](https://github.com/me-nayeem/Customer_Support_Chat_Bot)**
 
 AI-powered customer support system for mobile financial services.
@@ -90,6 +94,7 @@ AI-powered customer support system for mobile financial services.
 <br/>
 
 #### 🩺 HealthHub (ReLife) — AI-Powered Personal Wellness Platform
+
 **[View Repo →](https://github.com/me-nayeem/relife-healthcare-platform)**
 
 Full-stack wellness app for personalized health tracking, AI guidance, and community engagement. Built as a hackathon solution to fragmented health tracking.
@@ -101,18 +106,6 @@ Full-stack wellness app for personalized health tracking, AI guidance, and commu
 - Healthcare consultation and resource discovery pages
 
 `React` `Vite` `Node.js` `Express` `MongoDB` `Mongoose` `JWT` `Groq SDK` `OpenAI SDK`
-
----
-
-### 🌱 Currently Learning
-
-| Area | Focus |
-|---|---|
-| 🧮 Advanced DSA / CP | Deepening competitive programming skills |
-| 🤖 AI & RAG Systems | Vector databases, embeddings, LLM app architecture |
-| 🏗️ System Design | Scalability & architecture patterns for production systems |
-| 🐳 DevOps | CI/CD pipelines, container orchestration beyond the basics |
-| 📱 Mobile Development | Cross-platform app development |
 
 ---
 
